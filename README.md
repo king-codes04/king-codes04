@@ -47,4 +47,4 @@ I don't want to just memorize syntax. I want to know why something works, why it
 
 ## Let's connect
 
-📧 [YOUR-EMAIL](mailto:YOUR-EMAIL) · [LinkedIn](YOUR-LINKEDIN-URL)
+📧 [YOUR-EMAIL](emanueljob167@gmail.com) · [LinkedIn](YOUR-LINKEDIN-URL)
