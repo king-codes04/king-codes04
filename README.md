@@ -4,7 +4,6 @@ I'm a Software Engineering student and developer from Tanzania 🇹🇿, buildin
 
 I like understanding how things work under the hood, building real projects, and turning ideas into working software.
 
-**Learn → Build → Break → Debug → Improve → Repeat.**
 
 ---
 
