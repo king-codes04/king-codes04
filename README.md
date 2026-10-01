@@ -22,19 +22,19 @@ I like understanding how things work under the hood, building real projects, and
 
 ## Projects
 
-### 🎬 [MovieMatch](LINK-TO-MOVIEMATCH-REPO)
+### 🎬 [MovieMatch](https://github.com/king-codes04/moviematch)
 A real-time movie matching app. Two people join a room, see the same movies, make their decisions, and discover movies they both like.
 `FastAPI` · `Redis` · `WebSockets`
 
-### 💼 [Job Application Tracker](LINK-TO-JOB-TRACKER-REPO)
+### 💼 [Job Application Tracker](https://github.com/king-codes04/Job-Application-App)
 A web application for organizing and tracking job applications.
 `Node.js` · `Express` · `PostgreSQL` · `EJS`
 
-### 💰 [Finance Tracker](LINK-TO-FINANCE-TRACKER-REPO)
+### 💰 [Finance Tracker](https://github.com/king-codes04/finance-tracker)
 A full-stack finance management app with authentication, transactions, budgets, savings and a dashboard.
 `Flask` · `SQLAlchemy` · `PostgreSQL` · `Alembic`
 
-### 🏭 [Perfect Metal TZ](LINK-TO-PERFECT-METAL-REPO)
+### 🏭 [Perfect Metal TZ](https://github.com/king-codes04/perfect-metal)
 Website built for a real company, Perfect Metal TZ.
 `TypeScript`
 
